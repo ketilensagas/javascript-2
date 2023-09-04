@@ -47,8 +47,8 @@ if(formulario1)
         evento.preventDefault();
         evento.stopPropagation();
 
-        if( evento.target.getAttribute('class').match(/erro/) ) {
-            return false;
+        if(evento.target.getAttribute('class').match(/erro/) ) {
+            return false
         }
         
         const dados = new FormData(evento.target);
