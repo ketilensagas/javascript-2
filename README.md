@@ -1,6 +1,6 @@
 # Objetos
 Fórmula / Molde dinâmico
-Coleção de propriedas (atribuitos)
+Coleção de propriedades
 Associáveis (chave / valor)
 Relação com objetos da vida real
 Atributos: cor, forma, material, peso, identificação, etc.
